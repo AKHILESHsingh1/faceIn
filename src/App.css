@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #1bb7e2;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.homepage{
+  text-align: center;
+  color:rgb(11, 127, 176);
+}
+
+.remember_me_chk_box {
+  text-align: left;
+}
+
+.sign__upp{
+  margin: 20px auto;
 }
